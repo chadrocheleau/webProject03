@@ -1,1 +1,11 @@
-#igonre these
+#ignore these
+applications
+applications
+bitnami
+favicon
+TestIgnoreFile2.txt
+Project 3_F21
+chadFiles/
+dashboard/
+webalizer/
+xampp/
